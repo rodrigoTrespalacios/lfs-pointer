@@ -2,7 +2,7 @@
   "name": "lfs-pointer",
   "version": "1.0.0",
   "description": "Creates lfs-pointers for git lfs",
-  "main": "index.js",
+  "main": "lfs-pointer.js",
   "scripts": {
     "test": "node test.js"
   },

@@ -1,0 +1,21 @@
+{
+  "name": "lfs-pointer",
+  "description": "Creates lfs-pointers for git lfs",
+  "main": "index.js",
+  "authors": [
+    "Wevolver"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "git",
+    "git-lfs"
+  ],
+  "homepage": "https://github.com/rodrigoTrespalacios/lfs-pointer",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
